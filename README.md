@@ -15,7 +15,7 @@ I’m a tech enthusiast transitioning from the Sales and Dispatching industry in
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/marioesparza0901/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/marioesparza0901/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/marioesparza0901/ticket-lifecycle)
+  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marioesparza0901/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marioesparza0901/azure-network-protocols)
