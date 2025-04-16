@@ -18,7 +18,7 @@ I’m a tech enthusiast transitioning from the Sales and Dispatching industry in
   
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marioesparza0901/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marioesparza0901/azure-network-protocols)
+  - [Group Policy Management and Inpecting Event Viewer Log](https://github.com/marioesparza0901/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
