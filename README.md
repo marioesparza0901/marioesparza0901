@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mario, an <a href="https://linkedin.com/in/mario-esparza-74b494296">IT Professional</a>👨‍💻</h1>
 
 <h2>About Me</h2>
-I’m a tech enthusiast transitioning from the Sales and Dispatching industry into Tech IT, focusing on eventually advancing into cybersecurity. I am currently advancing my skills through the [CourseCareers](https://coursecareers.com) IT Professional program. Next on my certification path are the CompTIA A+ and Security+.
+I’m a tech enthusiast transitioning from the Sales and Dispatching into IT Support, I am currently advancing my skills through the "CourseCareers" IT Professional program. My next certification CompTIA A+ and Security+ as soon as complete my Course Careers program.
 
 - 🔭 I’m actively working on projects to enhance my GitHub profile.
 - 🌱 I’m deepening my knowledge in IT fundamentals, including hardware, software, and cloud technologies like Azure.
